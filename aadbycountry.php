@@ -1,12 +1,12 @@
 <?php 
 /**
  * Plugin Name: AA Ad by country
- * Plugin URI: http://wordpress.org/.../
- * Description: use like [AD for="BD"]Example[/AD]
+ * Plugin URI: https://wordpress.org/plugins/aa-ad-by-country/
+ * Description: Use your shortcode like [AD for="BD"]Your ads here[/AD]
  * Version: 1.0
  * Developer + Idea: A. Roy / A. Mahmud
  * Author URI: http://webdesigncr3ator.com
- * Support Email : contactus.aa@gmail.com
+ * Support Email : contact2us.aa@gmail.com
  * License: GPL2
  **/
 	
